@@ -4,7 +4,7 @@
 Initialize by logging in with your Pokemon Trainer Club or Google account.
 ```
 Welcome to PokemonGO CLI!
-> init <USERNAME> <PASSWORD> <'ptc'|'google'> 
+> init <USERNAME> <'ptc'|'google'>
 ```
 Use the scan command to look for nearby Pokemons.
 ```
@@ -32,9 +32,7 @@ For more commands and help try `> help`
 ### Setup:
 1. `cd pokemon-go-cli`
 2. `npm install`
-3. `cd api`
-4. `npm install`
-5. `cd..`
+4. `npm install api`
 6. `node app.js`
 
 ### Warning:

@@ -9,6 +9,7 @@
   "author": "Dany",
   "license": "MIT license",
   "dependencies": {
-    "async": "^2.0.1"
+    "async": "^2.0.1",
+    "readline-sync": "1.4.4"
   }
 }
